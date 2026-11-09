@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <rect width="800" height="300" fill="#ffffff"/>
+  <!-- emblema: grano de cafe sobre circulo morado -->
+  <circle cx="150" cy="150" r="110" fill="#5b3f6b"/>
+  <circle cx="150" cy="150" r="98" fill="none" stroke="#d9b94a" stroke-width="5"/>
+  <g transform="rotate(-30 150 150)">
+    <ellipse cx="150" cy="150" rx="52" ry="74" fill="#d9b94a"/>
+    <path d="M150 78 C128 118 172 182 150 222" fill="none" stroke="#5b3f6b" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <!-- nombre -->
+  <text x="300" y="150" font-family="Georgia, 'DejaVu Serif', serif" font-size="68" font-weight="bold" fill="#5b3f6b">Andalusian</text>
+  <text x="300" y="215" font-family="Georgia, 'DejaVu Serif', serif" font-size="68" font-weight="bold" fill="#d9b94a">Roast Lab</text>
+  <text x="302" y="255" font-family="Arial, 'DejaVu Sans', sans-serif" font-size="18" letter-spacing="3" fill="#5b3f6b">CAFE DE ESPECIALIDAD · SEVILLA</text>
+</svg>
